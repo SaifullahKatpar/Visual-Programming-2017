@@ -1,0 +1,12 @@
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\disconnectedAccess\disconnectedAccess\bin\Debug\disconnectedAccess.exe.config
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\disconnectedAccess\disconnectedAccess\bin\Debug\disconnectedAccess.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\disconnectedAccess\disconnectedAccess\bin\Debug\disconnectedAccess.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\disconnectedAccess\disconnectedAccess\obj\Debug\disconnectedAccess.csprojResolveAssemblyReference.cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\disconnectedAccess\disconnectedAccess\obj\Debug\disconnectedAccess.Form1.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\disconnectedAccess\disconnectedAccess\obj\Debug\disconnectedAccess.Properties.Resources.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\disconnectedAccess\disconnectedAccess\obj\Debug\disconnectedAccess.csproj.GenerateResource.Cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\disconnectedAccess\disconnectedAccess\obj\Debug\disconnectedAccess.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\disconnectedAccess\disconnectedAccess\obj\Debug\disconnectedAccess.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\10-LAB\disconnectedAccess\disconnectedAccess\bin\Debug\disconnectedAccess.exe.config
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\10-LAB\disconnectedAccess\disconnectedAccess\obj\Debug\disconnectedAccess.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\10-LAB\disconnectedAccess\disconnectedAccess\obj\Debug\disconnectedAccess.pdb

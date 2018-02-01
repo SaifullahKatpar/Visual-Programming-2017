@@ -1,0 +1,9 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\RegularExpressionsApp\RegularExpressionsApp\bin\Debug\RegularExpressionsApp.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\RegularExpressionsApp\RegularExpressionsApp\bin\Debug\RegularExpressionsApp.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\RegularExpressionsApp\RegularExpressionsApp\bin\Debug\RegularExpressionsApp.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\RegularExpressionsApp\RegularExpressionsApp\obj\Debug\RegularExpressionsApp.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\RegularExpressionsApp\RegularExpressionsApp\obj\Debug\RegularExpressionsApp.frmRegex.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\RegularExpressionsApp\RegularExpressionsApp\obj\Debug\RegularExpressionsApp.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\RegularExpressionsApp\RegularExpressionsApp\obj\Debug\RegularExpressionsApp.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\RegularExpressionsApp\RegularExpressionsApp\obj\Debug\RegularExpressionsApp.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\RegularExpressionsApp\RegularExpressionsApp\obj\Debug\RegularExpressionsApp.pdb

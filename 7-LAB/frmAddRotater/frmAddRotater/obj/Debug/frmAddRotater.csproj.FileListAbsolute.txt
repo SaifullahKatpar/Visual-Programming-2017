@@ -1,0 +1,9 @@
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\7-LAB\frmAddRotater\frmAddRotater\bin\Debug\frmAddRotater.exe.config
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\7-LAB\frmAddRotater\frmAddRotater\bin\Debug\frmAddRotater.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\7-LAB\frmAddRotater\frmAddRotater\bin\Debug\frmAddRotater.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\7-LAB\frmAddRotater\frmAddRotater\obj\Debug\frmAddRotater.csprojResolveAssemblyReference.cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\7-LAB\frmAddRotater\frmAddRotater\obj\Debug\frmAddRotater.frmAddRotater.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\7-LAB\frmAddRotater\frmAddRotater\obj\Debug\frmAddRotater.Properties.Resources.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\7-LAB\frmAddRotater\frmAddRotater\obj\Debug\frmAddRotater.csproj.GenerateResource.Cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\7-LAB\frmAddRotater\frmAddRotater\obj\Debug\frmAddRotater.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\7-LAB\frmAddRotater\frmAddRotater\obj\Debug\frmAddRotater.pdb

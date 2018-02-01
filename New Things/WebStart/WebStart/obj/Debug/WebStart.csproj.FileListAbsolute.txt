@@ -1,0 +1,18 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\WebStart\WebStart\bin\Debug\WebStart.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\WebStart\WebStart\bin\Debug\WebStart.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\WebStart\WebStart\bin\Debug\WebStart.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\WebStart\WebStart\obj\Debug\WebStart.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\WebStart\WebStart\obj\Debug\WebStart.GoogleForm.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\WebStart\WebStart\obj\Debug\WebStart.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\WebStart\WebStart\obj\Debug\WebStart.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\WebStart\WebStart\obj\Debug\WebStart.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\WebStart\WebStart\obj\Debug\WebStart.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\WebStart\WebStart\bin\Debug\WebStart.exe.config
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\WebStart\WebStart\obj\Debug\WebStart.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\WebStart\WebStart\obj\Debug\WebStart.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\WebStart\WebStart\bin\Debug\WebStart.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\WebStart\WebStart\bin\Debug\WebStart.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\WebStart\WebStart\obj\Debug\WebStart.csprojResolveAssemblyReference.cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\WebStart\WebStart\obj\Debug\WebStart.GoogleForm.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\WebStart\WebStart\obj\Debug\WebStart.Properties.Resources.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\WebStart\WebStart\obj\Debug\WebStart.csproj.GenerateResource.Cache

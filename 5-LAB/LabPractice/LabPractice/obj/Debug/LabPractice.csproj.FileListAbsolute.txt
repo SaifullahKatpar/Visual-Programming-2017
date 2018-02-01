@@ -1,0 +1,9 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\LabPractice\LabPractice\bin\Debug\LabPractice.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\LabPractice\LabPractice\bin\Debug\LabPractice.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\LabPractice\LabPractice\bin\Debug\LabPractice.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\LabPractice\LabPractice\obj\Debug\LabPractice.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\LabPractice\LabPractice\obj\Debug\LabPractice.Form1.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\LabPractice\LabPractice\obj\Debug\LabPractice.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\LabPractice\LabPractice\obj\Debug\LabPractice.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\LabPractice\LabPractice\obj\Debug\LabPractice.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\LabPractice\LabPractice\obj\Debug\LabPractice.pdb

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsoleApplication1</name>
+    </assembly>
+    <members>
+        <member name="T:Simple.program">
+            <summary>
+                 program class
+                 project starts form Main method of this class
+            </summary>
+        </member>
+        <member name="M:Simple.program.Main">
+            <summary>
+                 Main method
+                 Entry point of project
+            </summary>
+        </member>
+    </members>
+</doc>

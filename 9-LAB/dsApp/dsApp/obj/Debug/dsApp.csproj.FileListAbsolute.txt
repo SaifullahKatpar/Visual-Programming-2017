@@ -1,0 +1,8 @@
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dsApp\dsApp\bin\Debug\dsApp.exe.config
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dsApp\dsApp\bin\Debug\dsApp.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dsApp\dsApp\bin\Debug\dsApp.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dsApp\dsApp\obj\Debug\dsApp.Form1.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dsApp\dsApp\obj\Debug\dsApp.Properties.Resources.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dsApp\dsApp\obj\Debug\dsApp.csproj.GenerateResource.Cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dsApp\dsApp\obj\Debug\dsApp.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dsApp\dsApp\obj\Debug\dsApp.pdb

@@ -1,0 +1,9 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DialogBoxes\DialogBoxes\bin\Debug\DialogBoxes.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DialogBoxes\DialogBoxes\bin\Debug\DialogBoxes.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DialogBoxes\DialogBoxes\bin\Debug\DialogBoxes.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.Form1.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.pdb

@@ -1,0 +1,12 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SendEmail\SendEmail\bin\Debug\SendEmail.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SendEmail\SendEmail\obj\Debug\SendEmail.csprojResolveAssemblyReference.cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\SendEmail\SendEmail\bin\Debug\SendEmail.exe.config
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\SendEmail\SendEmail\obj\Debug\SendEmail.csprojResolveAssemblyReference.cache

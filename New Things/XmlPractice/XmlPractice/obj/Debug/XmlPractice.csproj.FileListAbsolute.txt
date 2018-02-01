@@ -1,0 +1,9 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\XmlPractice\XmlPractice\bin\Debug\XmlPractice.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\XmlPractice\XmlPractice\bin\Debug\XmlPractice.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\XmlPractice\XmlPractice\bin\Debug\XmlPractice.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\XmlPractice\XmlPractice\obj\Debug\XmlPractice.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\XmlPractice\XmlPractice\obj\Debug\XmlPractice.Form1.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\XmlPractice\XmlPractice\obj\Debug\XmlPractice.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\XmlPractice\XmlPractice\obj\Debug\XmlPractice.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\XmlPractice\XmlPractice\obj\Debug\XmlPractice.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\XmlPractice\XmlPractice\obj\Debug\XmlPractice.pdb

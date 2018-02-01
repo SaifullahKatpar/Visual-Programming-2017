@@ -1,0 +1,6 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Filing\Filing\bin\Debug\Filing.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Filing\Filing\bin\Debug\Filing.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Filing\Filing\bin\Debug\Filing.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Filing\Filing\obj\Debug\Filing.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Filing\Filing\obj\Debug\Filing.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Filing\Filing\obj\Debug\Filing.pdb

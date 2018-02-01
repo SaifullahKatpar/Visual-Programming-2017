@@ -1,0 +1,9 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Mid-Lab-2\Mid-Lab-2\bin\Debug\Mid-Lab-2.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Mid-Lab-2\Mid-Lab-2\obj\Debug\Mid-Lab-2.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Mid-Lab-2\Mid-Lab-2\obj\Debug\Mid_Lab_2.frmStopWatch.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Mid-Lab-2\Mid-Lab-2\obj\Debug\Mid_Lab_2.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Mid-Lab-2\Mid-Lab-2\obj\Debug\Mid-Lab-2.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Mid-Lab-2\Mid-Lab-2\bin\Debug\Mid-Lab-2.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Mid-Lab-2\Mid-Lab-2\bin\Debug\Mid-Lab-2.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Mid-Lab-2\Mid-Lab-2\obj\Debug\Mid-Lab-2.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Mid-Lab-2\Mid-Lab-2\obj\Debug\Mid-Lab-2.pdb

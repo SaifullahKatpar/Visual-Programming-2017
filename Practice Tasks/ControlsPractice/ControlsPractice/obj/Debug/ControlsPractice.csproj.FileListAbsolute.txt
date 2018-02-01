@@ -1,0 +1,9 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\1-LAB\ControlsPractice\ControlsPractice\bin\Debug\ControlsPractice.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\1-LAB\ControlsPractice\ControlsPractice\bin\Debug\ControlsPractice.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\1-LAB\ControlsPractice\ControlsPractice\bin\Debug\ControlsPractice.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\1-LAB\ControlsPractice\ControlsPractice\obj\Debug\ControlsPractice.Form1.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\1-LAB\ControlsPractice\ControlsPractice\obj\Debug\ControlsPractice.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\1-LAB\ControlsPractice\ControlsPractice\obj\Debug\ControlsPractice.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\1-LAB\ControlsPractice\ControlsPractice\obj\Debug\ControlsPractice.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\1-LAB\ControlsPractice\ControlsPractice\obj\Debug\ControlsPractice.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\1-LAB\ControlsPractice\ControlsPractice\obj\Debug\ControlsPractice.csprojResolveAssemblyReference.cache

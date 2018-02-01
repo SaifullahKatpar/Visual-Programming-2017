@@ -1,0 +1,10 @@
+H:\Alex\PROJECTS\MJ12commonLib\OpenSource\HTMLparserLibDotNet20\bin\Debug\HTMLparserLibDotNet20.dll
+H:\Alex\PROJECTS\MJ12commonLib\OpenSource\HTMLparserLibDotNet20\bin\Debug\HTMLparserLibDotNet20.pdb
+H:\Alex\PROJECTS\MJ12commonLib\OpenSource\HTMLparserLibDotNet20\obj\Debug\ResolveAssemblyReference.cache
+H:\Alex\PROJECTS\MJ12commonLib\OpenSource\HTMLparserLibDotNet20\obj\Debug\HTMLparserLibDotNet20.dll
+H:\Alex\PROJECTS\MJ12commonLib\OpenSource\HTMLparserLibDotNet20\obj\Debug\HTMLparserLibDotNet20.pdb
+H:\Alex\PROJECTS\MJ12commonLib\OpenSource\HTMLparser\bin\Debug\HTMLparserLibDotNet20.dll
+H:\Alex\PROJECTS\MJ12commonLib\OpenSource\HTMLparser\bin\Debug\HTMLparserLibDotNet20.pdb
+H:\Alex\PROJECTS\MJ12commonLib\OpenSource\HTMLparser\obj\Debug\ResolveAssemblyReference.cache
+H:\Alex\PROJECTS\MJ12commonLib\OpenSource\HTMLparser\obj\Debug\HTMLparserLibDotNet20.dll
+H:\Alex\PROJECTS\MJ12commonLib\OpenSource\HTMLparser\obj\Debug\HTMLparserLibDotNet20.pdb

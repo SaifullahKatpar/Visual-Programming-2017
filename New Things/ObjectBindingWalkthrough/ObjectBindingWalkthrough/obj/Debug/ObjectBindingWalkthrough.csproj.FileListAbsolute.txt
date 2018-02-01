@@ -1,0 +1,9 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\ObjectBindingWalkthrough\ObjectBindingWalkthrough\bin\Debug\ObjectBindingWalkthrough.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\ObjectBindingWalkthrough\ObjectBindingWalkthrough\bin\Debug\ObjectBindingWalkthrough.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\ObjectBindingWalkthrough\ObjectBindingWalkthrough\bin\Debug\ObjectBindingWalkthrough.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\ObjectBindingWalkthrough\ObjectBindingWalkthrough\obj\Debug\ObjectBindingWalkthrough.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\ObjectBindingWalkthrough\ObjectBindingWalkthrough\obj\Debug\ObjectBindingWalkthrough.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\ObjectBindingWalkthrough\ObjectBindingWalkthrough\obj\Debug\ObjectBindingWalkthrough.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\ObjectBindingWalkthrough\ObjectBindingWalkthrough\obj\Debug\ObjectBindingWalkthrough.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\ObjectBindingWalkthrough\ObjectBindingWalkthrough\obj\Debug\ObjectBindingWalkthrough.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\ObjectBindingWalkthrough\ObjectBindingWalkthrough\obj\Debug\ObjectBindingWalkthrough.Form1.resources

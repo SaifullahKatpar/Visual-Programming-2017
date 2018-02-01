@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortCutsApp", "ShortCutsApp\ShortCutsApp.csproj", "{EB5311AB-35D6-4844-AF56-B8A163EACD7C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "shortCutAppsSetup", "shortCutAppsSetup\shortCutAppsSetup.vdproj", "{AB5232F3-5862-4EBD-A5A3-5C48F3568A11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5311AB-35D6-4844-AF56-B8A163EACD7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5311AB-35D6-4844-AF56-B8A163EACD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5311AB-35D6-4844-AF56-B8A163EACD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5311AB-35D6-4844-AF56-B8A163EACD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5232F3-5862-4EBD-A5A3-5C48F3568A11}.Debug|Any CPU.ActiveCfg = Debug
+		{AB5232F3-5862-4EBD-A5A3-5C48F3568A11}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

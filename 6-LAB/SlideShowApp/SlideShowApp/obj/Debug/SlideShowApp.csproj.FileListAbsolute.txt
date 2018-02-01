@@ -1,0 +1,11 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.frmSlideShow.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.frmGridView.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.frmBookStore.resources

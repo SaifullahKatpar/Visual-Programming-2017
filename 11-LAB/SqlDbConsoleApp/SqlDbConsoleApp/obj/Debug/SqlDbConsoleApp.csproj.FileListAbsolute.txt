@@ -1,0 +1,1 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SqlDbConsoleApp\SqlDbConsoleApp\bin\Debug\SqlDbConsoleApp.exe.config

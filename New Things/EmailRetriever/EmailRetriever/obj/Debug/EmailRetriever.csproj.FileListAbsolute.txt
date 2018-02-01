@@ -1,0 +1,9 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\EmailRetriever\EmailRetriever\bin\Debug\EmailRetriever.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\EmailRetriever\EmailRetriever\bin\Debug\EmailRetriever.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\EmailRetriever\EmailRetriever\bin\Debug\EmailRetriever.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\EmailRetriever\EmailRetriever\obj\Debug\EmailRetriever.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\EmailRetriever\EmailRetriever\obj\Debug\EmailRetriever.Form1.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\EmailRetriever\EmailRetriever\obj\Debug\EmailRetriever.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\EmailRetriever\EmailRetriever\obj\Debug\EmailRetriever.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\EmailRetriever\EmailRetriever\obj\Debug\EmailRetriever.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\EmailRetriever\EmailRetriever\obj\Debug\EmailRetriever.pdb

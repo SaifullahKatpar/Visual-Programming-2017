@@ -1,0 +1,9 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\frmBuildPizza\frmBuildPizza\bin\Debug\frmBuildPizza.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\frmBuildPizza\frmBuildPizza\bin\Debug\frmBuildPizza.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\frmBuildPizza\frmBuildPizza\bin\Debug\frmBuildPizza.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\frmBuildPizza\frmBuildPizza\obj\Debug\frmBuildPizza.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\frmBuildPizza\frmBuildPizza\obj\Debug\frmBuildPizza.frmBuildPizza.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\frmBuildPizza\frmBuildPizza\obj\Debug\frmBuildPizza.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\frmBuildPizza\frmBuildPizza\obj\Debug\frmBuildPizza.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\frmBuildPizza\frmBuildPizza\obj\Debug\frmBuildPizza.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\frmBuildPizza\frmBuildPizza\obj\Debug\frmBuildPizza.pdb

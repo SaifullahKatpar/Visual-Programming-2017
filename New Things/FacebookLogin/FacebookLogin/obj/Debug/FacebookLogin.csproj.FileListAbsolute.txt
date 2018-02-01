@@ -1,0 +1,11 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FacebookLogin\FacebookLogin\bin\Debug\FacebookLogin.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FacebookLogin\FacebookLogin\bin\Debug\FacebookLogin.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FacebookLogin\FacebookLogin\bin\Debug\FacebookLogin.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FacebookLogin\FacebookLogin\bin\Debug\Facebook.dll
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FacebookLogin\FacebookLogin\bin\Debug\Facebook.xml
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FacebookLogin\FacebookLogin\obj\Debug\FacebookLogin.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FacebookLogin\FacebookLogin\obj\Debug\FacebookLogin.Form1.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FacebookLogin\FacebookLogin\obj\Debug\FacebookLogin.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FacebookLogin\FacebookLogin\obj\Debug\FacebookLogin.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FacebookLogin\FacebookLogin\obj\Debug\FacebookLogin.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FacebookLogin\FacebookLogin\obj\Debug\FacebookLogin.pdb

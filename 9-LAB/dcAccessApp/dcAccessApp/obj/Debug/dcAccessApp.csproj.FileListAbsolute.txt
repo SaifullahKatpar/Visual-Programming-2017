@@ -1,0 +1,9 @@
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dcAccessApp\dcAccessApp\bin\Debug\dcAccessApp.exe.config
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dcAccessApp\dcAccessApp\bin\Debug\dcAccessApp.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dcAccessApp\dcAccessApp\bin\Debug\dcAccessApp.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dcAccessApp\dcAccessApp\obj\Debug\dcAccessApp.csprojResolveAssemblyReference.cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dcAccessApp\dcAccessApp\obj\Debug\dcAccessApp.frmdcAccess.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dcAccessApp\dcAccessApp\obj\Debug\dcAccessApp.Properties.Resources.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dcAccessApp\dcAccessApp\obj\Debug\dcAccessApp.csproj.GenerateResource.Cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dcAccessApp\dcAccessApp\obj\Debug\dcAccessApp.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\dcAccessApp\dcAccessApp\obj\Debug\dcAccessApp.pdb

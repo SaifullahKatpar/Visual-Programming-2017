@@ -1,0 +1,5 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\PlayWithFiles\PlayWithFiles\bin\Debug\PlayWithFiles.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\PlayWithFiles\PlayWithFiles\bin\Debug\PlayWithFiles.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\PlayWithFiles\PlayWithFiles\bin\Debug\PlayWithFiles.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\PlayWithFiles\PlayWithFiles\obj\Debug\PlayWithFiles.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\PlayWithFiles\PlayWithFiles\obj\Debug\PlayWithFiles.pdb

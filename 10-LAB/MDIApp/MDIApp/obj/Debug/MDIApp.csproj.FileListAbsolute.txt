@@ -1,0 +1,11 @@
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\MDIApp\MDIApp\bin\Debug\MDIApp.exe.config
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\MDIApp\MDIApp\bin\Debug\MDIApp.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\MDIApp\MDIApp\bin\Debug\MDIApp.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\MDIApp\MDIApp\obj\Debug\MDIApp.csprojResolveAssemblyReference.cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\MDIApp\MDIApp\obj\Debug\MDIApp.Form1.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\MDIApp\MDIApp\obj\Debug\MDIApp.Form2.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\MDIApp\MDIApp\obj\Debug\MDIApp.Form3.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\MDIApp\MDIApp\obj\Debug\MDIApp.Properties.Resources.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\MDIApp\MDIApp\obj\Debug\MDIApp.csproj.GenerateResource.Cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\MDIApp\MDIApp\obj\Debug\MDIApp.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\MDIApp\MDIApp\obj\Debug\MDIApp.pdb

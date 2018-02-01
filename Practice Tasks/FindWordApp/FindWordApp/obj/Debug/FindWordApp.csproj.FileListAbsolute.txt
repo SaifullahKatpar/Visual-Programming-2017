@@ -1,0 +1,6 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FindWordApp\FindWordApp\bin\Debug\FindWordApp.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FindWordApp\FindWordApp\bin\Debug\FindWordApp.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FindWordApp\FindWordApp\bin\Debug\FindWordApp.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FindWordApp\FindWordApp\obj\Debug\FindWordApp.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FindWordApp\FindWordApp\obj\Debug\FindWordApp.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\FindWordApp\FindWordApp\obj\Debug\FindWordApp.pdb

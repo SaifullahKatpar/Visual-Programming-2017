@@ -1,0 +1,7 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DummyDatabase\DummyDatabase\bin\Debug\DummyDatabase.dacpac
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DummyDatabase\DummyDatabase\obj\Debug\Model.xml
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DummyDatabase\DummyDatabase\obj\Debug\refactor.xml
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DummyDatabase\DummyDatabase\obj\Debug\postdeploy.sql
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DummyDatabase\DummyDatabase\obj\Debug\predeploy.sql
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DummyDatabase\DummyDatabase\obj\Debug\DummyDatabase.dll
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\DummyDatabase\DummyDatabase\obj\Debug\DummyDatabase.pdb

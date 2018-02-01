@@ -1,0 +1,9 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Small Database\Small Database\bin\Debug\Small Database.dacpac
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Small Database\Small Database\bin\Debug\Small_Database.dll
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Small Database\Small Database\bin\Debug\Small_Database.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Small Database\Small Database\obj\Debug\Model.xml
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Small Database\Small Database\obj\Debug\refactor.xml
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Small Database\Small Database\obj\Debug\postdeploy.sql
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Small Database\Small Database\obj\Debug\predeploy.sql
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Small Database\Small Database\obj\Debug\Small_Database.dll
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Small Database\Small Database\obj\Debug\Small_Database.pdb

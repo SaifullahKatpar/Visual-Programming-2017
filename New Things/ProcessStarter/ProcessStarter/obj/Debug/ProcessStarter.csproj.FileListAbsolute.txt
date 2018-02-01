@@ -1,0 +1,6 @@
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\ProcessStarter\ProcessStarter\bin\Debug\ProcessStarter.exe.config
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\ProcessStarter\ProcessStarter\bin\Debug\ProcessStarter.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\ProcessStarter\ProcessStarter\bin\Debug\ProcessStarter.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\ProcessStarter\ProcessStarter\obj\Debug\ProcessStarter.csprojResolveAssemblyReference.cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\ProcessStarter\ProcessStarter\obj\Debug\ProcessStarter.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\ProcessStarter\ProcessStarter\obj\Debug\ProcessStarter.pdb

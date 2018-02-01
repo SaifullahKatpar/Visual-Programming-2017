@@ -1,0 +1,10 @@
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\New Things\LinqToSqlApp\LinqToSqlApp\bin\Debug\LinqToSqlApp.exe.config
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\11-LAB\LinqToSqlApp\LinqToSqlApp\bin\Debug\LinqToSqlApp.exe.config
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\11-LAB\LinqToSqlApp\LinqToSqlApp\bin\Debug\LinqToSqlApp.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\11-LAB\LinqToSqlApp\LinqToSqlApp\bin\Debug\LinqToSqlApp.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\11-LAB\LinqToSqlApp\LinqToSqlApp\obj\Debug\LinqToSqlApp.csprojResolveAssemblyReference.cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\11-LAB\LinqToSqlApp\LinqToSqlApp\obj\Debug\LinqToSqlApp.Form1.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\11-LAB\LinqToSqlApp\LinqToSqlApp\obj\Debug\LinqToSqlApp.Properties.Resources.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\11-LAB\LinqToSqlApp\LinqToSqlApp\obj\Debug\LinqToSqlApp.csproj.GenerateResource.Cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\11-LAB\LinqToSqlApp\LinqToSqlApp\obj\Debug\LinqToSqlApp.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\11-LAB\LinqToSqlApp\LinqToSqlApp\obj\Debug\LinqToSqlApp.pdb

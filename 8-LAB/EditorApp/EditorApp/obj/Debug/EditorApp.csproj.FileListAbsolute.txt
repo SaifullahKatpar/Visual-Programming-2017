@@ -1,0 +1,18 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\bin\Debug\EditorApp.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\bin\Debug\EditorApp.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\bin\Debug\EditorApp.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\obj\Debug\EditorApp.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\obj\Debug\EditorApp.frmEditor.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\obj\Debug\EditorApp.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\obj\Debug\EditorApp.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\obj\Debug\EditorApp.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\obj\Debug\EditorApp.pdb
+F:\C DATA\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\bin\Debug\EditorApp.exe.config
+F:\C DATA\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\obj\Debug\EditorApp.exe
+F:\C DATA\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\obj\Debug\EditorApp.pdb
+F:\C DATA\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\bin\Debug\EditorApp.exe
+F:\C DATA\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\bin\Debug\EditorApp.pdb
+F:\C DATA\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\obj\Debug\EditorApp.csprojResolveAssemblyReference.cache
+F:\C DATA\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\obj\Debug\EditorApp.frmEditor.resources
+F:\C DATA\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\obj\Debug\EditorApp.Properties.Resources.resources
+F:\C DATA\Visual Studio 2015\Projects\8-LAB\EditorApp\EditorApp\obj\Debug\EditorApp.csproj.GenerateResource.Cache

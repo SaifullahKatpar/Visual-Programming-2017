@@ -1,0 +1,9 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SplashScreen\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SplashScreen\SplashScreen\obj\Debug\SplashScreen.frmSplashScreen.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csprojResolveAssemblyReference.cache

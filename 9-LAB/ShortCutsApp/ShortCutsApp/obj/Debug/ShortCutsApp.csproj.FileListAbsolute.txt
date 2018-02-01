@@ -1,0 +1,8 @@
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\ShortCutsApp\ShortCutsApp\bin\Debug\ShortCutsApp.exe.config
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\ShortCutsApp\ShortCutsApp\bin\Debug\ShortCutsApp.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\ShortCutsApp\ShortCutsApp\bin\Debug\ShortCutsApp.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\ShortCutsApp\ShortCutsApp\obj\Debug\ShortCutsApp.frmShortcuts.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\ShortCutsApp\ShortCutsApp\obj\Debug\ShortCutsApp.Properties.Resources.resources
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\ShortCutsApp\ShortCutsApp\obj\Debug\ShortCutsApp.csproj.GenerateResource.Cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\ShortCutsApp\ShortCutsApp\obj\Debug\ShortCutsApp.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\9-LAB\ShortCutsApp\ShortCutsApp\obj\Debug\ShortCutsApp.pdb

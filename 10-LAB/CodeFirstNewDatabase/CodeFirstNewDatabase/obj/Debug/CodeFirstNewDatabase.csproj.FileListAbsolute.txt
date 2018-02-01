@@ -1,0 +1,10 @@
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\CodeFirstNewDatabase.exe.config
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\CodeFirstNewDatabase.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\CodeFirstNewDatabase.pdb
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\Debug\CodeFirstNewDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\Debug\CodeFirstNewDatabase.exe
+C:\Users\Saifullah\Documents\Visual Studio 2015\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\Debug\CodeFirstNewDatabase.pdb

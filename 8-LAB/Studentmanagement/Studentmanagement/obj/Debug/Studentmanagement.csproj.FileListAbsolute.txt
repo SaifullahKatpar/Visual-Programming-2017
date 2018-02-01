@@ -1,0 +1,9 @@
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\Studentmanagement\Studentmanagement\bin\Debug\Studentmanagement.exe.config
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\Studentmanagement\Studentmanagement\bin\Debug\Studentmanagement.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\Studentmanagement\Studentmanagement\bin\Debug\Studentmanagement.pdb
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\Studentmanagement\Studentmanagement\obj\Debug\Studentmanagement.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\Studentmanagement\Studentmanagement\obj\Debug\Studentmanagement.frmStudent.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\Studentmanagement\Studentmanagement\obj\Debug\Studentmanagement.Properties.Resources.resources
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\Studentmanagement\Studentmanagement\obj\Debug\Studentmanagement.csproj.GenerateResource.Cache
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\Studentmanagement\Studentmanagement\obj\Debug\Studentmanagement.exe
+C:\Users\saifullah\Documents\Visual Studio 2015\Projects\8-LAB\Studentmanagement\Studentmanagement\obj\Debug\Studentmanagement.pdb

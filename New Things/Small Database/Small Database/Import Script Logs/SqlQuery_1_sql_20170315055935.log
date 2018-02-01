@@ -1,0 +1,13 @@
+3/15/2017 10:59:35 PM	This log contains information about the import operation of the script 'SqlQuery_1.sql' into project 'Small Database' on computer 'SAIF' by user'saifullah.
+3/15/2017 10:59:35 PM	Started importing file: C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Small Database\SqlQuery_1.sql 
+3/15/2017 10:59:35 PM	File name C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Small Database\SqlQuery_1.sql (size: 5100)
+3/15/2017 10:59:35 PM	Parsing import script
+3/15/2017 10:59:36 PM	Total number of batches in script: 33
+3/15/2017 10:59:36 PM	Total number of statements in script: 17
+3/15/2017 10:59:36 PM	The script was successfully imported into the project.
+3/15/2017 10:59:36 PM	Analyzing schema objects...
+3/15/2017 10:59:36 PM	Scanning project for duplicate elements
+3/15/2017 10:59:36 PM	Finished duplicate element processing
+3/15/2017 10:59:37 PM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+3/15/2017 10:59:37 PM	A summary of the import was saved to the following location: C:\Users\saifullah\Documents\Visual Studio 2015\Projects\5-LAB\Small Database\Small Database\Import Script Logs\SqlQuery_1_sql_20170315055935.log
+3/15/2017 10:59:37 PM	Click Finish to continue...
